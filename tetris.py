@@ -1,6 +1,5 @@
 import pygame
 import random
-from playsound import playsound
 from pygame.locals import *
 
 WINDOW_WIDTH = 400
